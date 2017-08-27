@@ -1,0 +1,42 @@
+#red {
+          background: red;
+          height: 80px;
+          width:  800px;
+}
+#yellow-1 {
+          background: yellow;
+          height: 570px;
+          width: 150px;
+          float: left;
+}
+
+#blue {
+          background: blue;
+          width: 500px;
+          height: 570px;
+          float: left;
+          font-size: 50px;
+          font: center;
+          font-family: cursive;
+}
+#yellow-2 {
+          background: yellow;
+          float: left;
+          width: 150px;
+          height: 620px;
+}
+.yellow {
+          background: yellow;
+          position: absolute;
+          top: 658px;
+          width: 158px;
+          height: 50px;
+}
+.green {
+          background: green;
+          position: absolute;
+          top: 658px;
+          left: 158px;
+          width: 500px;
+          height: 50px;
+}

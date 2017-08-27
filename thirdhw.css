@@ -1,0 +1,81 @@
+body {
+      background: #eee;
+}
+
+.purple {
+          background: purple;
+          width: 600px;
+          height: 80px;
+}
+#red   {
+          background: red;
+          width: 425px;
+          height: 625px;
+          padding-top: 50px;
+}
+#bluebox-1 {
+          padding-top: 15px;
+          padding-left: 15px;
+          background: blue;
+          width: 300px;
+          height: 150px;
+          margin-bottom: 25px;
+}
+#yellowbox-1 {
+          margin-right: 15px;
+          background: yellow;
+          float: left;
+          width: 80px;
+          height: 80px;
+}
+#greenbox-1 {
+
+          background: green;
+          float: left;
+          width: 170px;
+          height: 110px;
+}
+#bluebox-2 {
+          padding-top: 15px;
+          padding-left: 15px;
+          background: blue;
+          width: 300px;
+          height: 150px;
+          margin-bottom: 25px;
+}
+#yellowbox-2 {
+          margin-right: 15px;
+          background: yellow;
+          float: left;
+          width: 80px;
+          height: 80px;
+}
+#greenbox-2 {
+
+          background: green;
+          float: left;
+          width: 170px;
+          height: 110px;
+}
+#bluebox-3 {
+          padding-top: 15px;
+          padding-left: 15px;
+          background: blue;
+          width: 300px;
+          height: 150px;
+          margin-bottom: 25px;
+}
+#yellowbox-3 {
+          margin-right: 15px;
+          background: yellow;
+          float: left;
+          width: 80px;
+          height: 80px;
+}
+#greenbox-3 {
+
+          background: green;
+          float: left;
+          width: 170px;
+          height: 110px;
+}
